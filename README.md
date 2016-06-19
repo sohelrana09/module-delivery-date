@@ -1,6 +1,6 @@
 The Order Delivery Date Extension gives your customers possibility to choose the date on which they want the products purchased from your store to be delivered.
 
-Features
+<b>Features</b>
 
 1. Allows users to provide expected shipping arrival date
 2. Users can also write comments while placing an order from your online shop
@@ -9,6 +9,6 @@ Features
 5. Disable week off days (like Saturday and Sunday) [Stores -> Configuration -> Sales -> Order Delivery Date Settings]
 
 
-Installation:
+<b>Installation:</b>
 
 This module is intended to be installed using composer [ composer require "sr/module-delivery-date:*" ]
