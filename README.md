@@ -10,4 +10,5 @@ Features
 
 
 Installation:
-This module is intended to be installed using composer[composer require "sr/module-delivery-date:*"]
+
+This module is intended to be installed using composer [ composer require "sr/module-delivery-date:*" ]
